@@ -1,4 +1,5 @@
-## Hi there 👋
+# Olá meu nome é Rafael
+## E atualmente sou um progamador junior
 
 <!--
 **RafaelLucasSegalRamos/RafaelLucasSegalRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
