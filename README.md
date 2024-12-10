@@ -8,9 +8,6 @@
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ... -->
 - 💬 Ask me about anything you want I will do my best to respond / Pergunte-me sobre qualquer coisa, farei meu melhor para responder
-- 📫 How to reach me / Como me contactar:
-- email: rafael.segal81@gmail.com,
-- Linkedin: https://www.linkedin.com/in/rafael-lucas-segal-ramos-947541301/
 - Languages that I use today/ Linguagem que utilizo hoje: Python, Java, C#, HTML5, CSS3, JavaScript, PHP 
 
 
@@ -36,4 +33,13 @@ Essas são as linguagens que eu mais uso
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+<div> 
+<!--  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
+  <a href = "mailto:rafael.segal81@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafael-lucas-segal-ramos-947541301/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
