@@ -10,4 +10,4 @@
 - 📫 How to reach me / Como me contactar:
 - email: rafael.segal81@gmail.com,
 - Linkedin: https://www.linkedin.com/in/rafael-lucas-segal-ramos-947541301/
-
+- Languages that I use today/ Linguagem que utilizo hoje: Python, Java, C#, HTML5, CSS3, JavaScript, PHP 
