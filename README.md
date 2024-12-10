@@ -7,5 +7,7 @@
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ... -->
 - 💬 Ask me about anything you want I will do my best to respond / Pergunte-me sobre qualquer coisa, farei meu melhor para responder
-- 📫 How to reach me / Como me contactar: email: rafael.segal81@gmail.com, Linkedin: https://www.linkedin.com/in/rafael-lucas-segal-ramos-947541301/
+- 📫 How to reach me / Como me contactar:
+- email: rafael.segal81@gmail.com,
+- Linkedin: https://www.linkedin.com/in/rafael-lucas-segal-ramos-947541301/
 
