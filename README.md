@@ -11,3 +11,5 @@
 - email: rafael.segal81@gmail.com,
 - Linkedin: https://www.linkedin.com/in/rafael-lucas-segal-ramos-947541301/
 - Languages that I use today/ Linguagem que utilizo hoje: Python, Java, C#, HTML5, CSS3, JavaScript, PHP 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelLucasSegalRamos)](https://github.com/anuraghazra/github-readme-stats)
