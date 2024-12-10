@@ -2,13 +2,13 @@
 ## E atualmente sou um progamador junior
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-- 🔭 I’m currently working on my profile and showing off a few thing that I worked on in the past/ Atualmente estou trabalhando no meu perfil e mostrando coisas que fiz no passado
-- 🌱 I’m currently learning C# and going in more deepper with python/ Estou atualmente estudando C# e indo mais a fundo com python
+- 🔭 I’m currently working on my profile and demonstarting projects that I worked on in the past/ Atualmente estou trabalhando no meu perfil e demonstrando trabalhos que fiz no passado
+- 🌱 I’m currently learning C# and studying more complex parts about python/ Estou atualmente estudando C# e estudando mais a fundo com python
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ... -->
 - 💬 Ask me about anything you want I will do my best to respond / Pergunte-me sobre qualquer coisa, farei meu melhor para responder
-- Languages that I use today/ Linguagens que utilizo hoje: Python, Java, C#, HTML5, CSS3, JavaScript, PHP 
+- Languages that I work/study today/ Linguagens que trabalho/estudo hoje: Python, Java, C#, HTML5, CSS3, JavaScript, PHP 
 
 
 #### In my respository [intensivão de Python](https://github.com/RafaelLucasSegalRamos/intensivao_de_python) there is librarys that installed packages that cointain archives with the language TeX, but I don't use it at all so in the graph looks like i use it a lot but I don't
