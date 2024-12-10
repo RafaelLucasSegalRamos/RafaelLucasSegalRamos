@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ... -->
 - 💬 Ask me about anything you want I will do my best to respond / Pergunte-me sobre qualquer coisa, farei meu melhor para responder
-- Languages that I use today/ Linguagem que utilizo hoje: Python, Java, C#, HTML5, CSS3, JavaScript, PHP 
+- Languages that I use today/ Linguagens que utilizo hoje: Python, Java, C#, HTML5, CSS3, JavaScript, PHP 
 
 
 #### In my respository [intensivão de Python](https://github.com/RafaelLucasSegalRamos/intensivao_de_python) there is librarys that installed packages that cointain archives with the language TeX, but I don't use it at all so in the graph looks like i use it a lot but I don't
